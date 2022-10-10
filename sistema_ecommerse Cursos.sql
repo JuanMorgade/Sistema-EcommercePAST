@@ -106,14 +106,10 @@ CREATE TABLE `usuario` (
 INSERT INTO `usuario` (`codusu`, `nomusu`, `apeusu`, `emausu`, `pasusu`, `estado`) VALUES
 (1, 'Usuario', 'Demo', 'correo@example.com', '12345', 1),
 (2, 'Juan', 'Morgade', 'jp.mor@gmail.com', '112266', 1),
-(3, 'Ramiro', 'Gitirrez', 'rama.gitirrez@gmail.com', '112233', 1),
-(4, 'Mateo', 'Armentano', 'mateo.armen@gmail.com', '445566', 1),
-(5, 'Daiki', 'Fatti', 'daiki@gmail.com', 'daiki123', 1),
-(6, 'Franco', 'Sosto', 'sosto@gmail.com', 'sosto123', 1),
-(7, 'Pepe', 'Pepon', 'pepe@gmail.com', '123456', 1),
-(8, 'Prueba', '001', 'prueba@gmail.com', '123123', 1),
-(9, 'Juan Pablo', 'Morgade', 'jp.morgade@gmail.com.ar', '123456789', 1),
-(10, 'sdsds', 'sdsds', 'test@gmail.com', '123123', 1);
+(3, 'Pepe', 'Pepon', 'pepe@gmail.com', '123456', 1),
+(4, 'Prueba', '001', 'prueba@gmail.com', '123123', 1),
+(5, 'Juan Pablo', 'Morgade', 'jp.morgade@gmail.com.ar', '123456789', 1),
+(6, 'sdsds', 'sdsds', 'test@gmail.com', '123123', 1);
 
 --
 -- Índices para tablas volcadas
